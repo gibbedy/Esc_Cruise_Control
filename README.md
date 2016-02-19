@@ -10,3 +10,4 @@ Motor will hold rpm regardless of Voltage change.
 int speedSettingPin = 0;  // analog pin used to connect the potentiometer
 const int escPin=9;             // connect to esc
 const int rpmPin=3; 
+
